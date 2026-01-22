@@ -4,6 +4,15 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Ahmad+Radi;Java+Backend+Developer;Software+Engineer;Building+Scalable+Systems;From+Geotechnical+to+Code)
 
+#### 🏗️ Software Engineer | Java Backend Developer.
+#### Building reliable foundations, one line of code at a time. 💻
+
+<br>
+
+<img src="https://img.shields.io/badge/Location-Amman%2C%20Jordan-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-6DB33F?style=flat-square&logo=github" />
+
+<br>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-radi33)
