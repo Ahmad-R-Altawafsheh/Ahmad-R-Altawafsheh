@@ -35,17 +35,18 @@ Coming from a rigorous background in **Geotechnical Engineering**, I bring a uni
 ### 🚀 Highlights
 - 🌱 **Learning:** CI/CD Pipelines, Docker, and Cloud Deployment (AWS).
 - 👯 **Open to Collaborate:** On Java-based open-source projects or enterprise-level backend solutions.
-- 💬 **Ask me about:** Java Architecture, Geotechnical Engineering, and the journey of Career Shifting.
+- 💬 **Ask me about:** Java Architecture, Geotechnical Engineering, and my journey as a Career Changer.
 
 ---
 
 ### 📫 Let's Connect!
 
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/ahmad-radi33">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@example.com">
+&nbsp;&nbsp;
+<a href="mailto:ahmadra78fa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </div>
