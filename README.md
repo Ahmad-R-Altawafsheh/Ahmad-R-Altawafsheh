@@ -1,62 +1,34 @@
-# Hello there 👋 I'm Ahmad Radi
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+[![Linkedin Badge](https://img.shields.io/badge/-ahmad--radi33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-radi33/)](https://www.linkedin.com/in/ahmad-radi33/) 
+[![Gmail Badge](https://img.shields.io/badge/-ahmadra78fa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadra78fa@gmail.com)](mailto:ahmadra78fa@gmail.com)
+
+[cite_start]I am **Ahmad Radi** 😃. I am a **Software Engineer** specializing in **Java Backend Development**[cite: 1, 3]. [cite_start]I bring a rigorous analytical mindset from my background in **Geotechnical Engineering** to building scalable and robust software systems.
+
+## 🏗️ Career Transition
+* [cite_start]**Software Engineering Fellow** at Luminous Technical University College (ASAC).
+* [cite_start]**Former Geotechnical Engineer** with experience in national-scale infrastructure projects (35M JOD).
+* [cite_start]Passionate about **Clean Code**, **SOLID Principles**, and **System Design**.
+
+## ⚡ Technologies
+Talk to me about:
+- [cite_start]**Backend Development**: Expert in **Java 17** and **Spring Boot** (Spring Security, Data JPA, MVC).
+- [cite_start]**Architecture & Design**: Implementing **CQRS Pattern**, **SOLID Principles**, and **Design Patterns**.
+- [cite_start]**Databases**: Relational database management using **PostgreSQL** and **Hibernate**.
+- [cite_start]**Core Fundamentals**: Solving complex problems using **Data Structures** and **Algorithms**.
+- [cite_start]**Tools**: Version control with **Git/GitHub**, API testing with **Postman**, and build management with **Maven**.
+- [cite_start]**Other Languages**: Familiar with **SQL**, **C++**, and **C#**.
+
+## 🚀 Featured Project
+- [cite_start]**Doctor Appointment Management System**: A high-performance backend system built with Java 17 and Spring Boot, utilizing CQRS for scalability and Spring Security for role-based access control.
+
+## 🔔 Connect with me:
+- 💬 Ask me about **Java Architecture** or the journey of **Career Shifting** from Engineering to Tech.
+- 📫 How to reach me: [ahmadra78fa@gmail.com](mailto:ahmadra78fa@gmail.com).
+- ⚡ Fun fact: I used to ensure the stability of massive physical structures, now I ensure the stability of backend infrastructures! 🚀
+
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmad-radi33&show_icons=true&theme=radical)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmad-radi33.ahmad-radi33)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ahmad-radi33/)
-
-```java
-/**
- * Bridging the gap between Engineering Discipline 
- * and Software Excellence.
- */
-public class SoftwareEngineer {
-    private String name = "Ahmad Radi";
-    private String role = "Software Engineer | Java Backend Developer";
-    private String background = "Geotechnical Engineering";
-    private String[] languagesSpoken = {"Arabic (Native)", "English"};
-
-    public void sayHi() {
-        System.out.println("Thanks for dropping by!");
-    }
-}
-🏛️ From Structures to Systems
-Coming from a rigorous background in Geotechnical Engineering where I contributed to national-scale infrastructure projects (35M JOD), I now apply that same analytical discipline to building robust and scalable backend systems.
-
-🔭 Currently focused on: Advanced Java 17, Spring Boot, and System Design.
-
-🏗️ Core Philosophy: Applying SOLID principles and CQRS patterns to ensure system reliability.
-
-🌱 Learning Path: CI/CD Pipelines, Docker, and Cloud Fundamentals.
-
-🔧 Technologies & Tools
-Backend Development:
-
-Architecture & Principles:
-
-Databases & Tools:
-
-🗂️ Highlight Projects
-Doctor Appointment Management System
-Architected a high-performance backend using Java 17 and Spring Boot.
-
-Implemented CQRS Pattern to decouple read and write operations, enhancing scalability.
-
-Applied SOLID Principles to ensure the codebase remains maintainable and clean.
-
-🌟 Soft Skills (The Engineer's Edge)
-Analytical Problem-Solving: Deep experience in solving complex technical challenges.
-
-Attention to Detail: Precision in code quality and system architecture.
-
-Disciplined Work Ethic: Proven accountability in high-stakes environments.
-
-📫 Let's Connect!
-💼 LinkedIn: Ahmad Radi
-
-📧 Email: ahmadra78fa@gmail.com
-
-<div align="center"> <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D25%26pause%3D1000%26color%3D53D1B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DAhmad%2BRadi%3BSoftware%2BEngineer%3BJava%2BBackend%2BDeveloper%3BProblem%2BSolver" alt="Typing SVG" /> </div>
-
-.
-6.  اضغط على **Commit changes** في الأسفل.
-
-مبروك\! الآن بروفايلك يظهر اسمك بشكل متحرك، مهاراتك كاملة، وقصتك المهنية بشكل احترافي جداً.
