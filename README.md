@@ -1,33 +1,36 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=53D1B6&center=true&vCenter=true&width=500&lines=Hello+there,+I+am+Ahmad+Radi;Software+Engineer;Java+Backend+Developer" alt="Typing SVG" />
+</div>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ahmad--radi33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-radi33/)](https://www.linkedin.com/in/ahmad-radi33/) 
 [![Gmail Badge](https://img.shields.io/badge/-ahmadra78fa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadra78fa@gmail.com)](mailto:ahmadra78fa@gmail.com)
 
-[cite_start]I am **Ahmad Radi** 😃. I am a **Software Engineer** specializing in **Java Backend Development**[cite: 1, 3]. [cite_start]I bring a rigorous analytical mindset from my background in **Geotechnical Engineering** to building scalable and robust software systems.
+[cite_start]I am **Ahmad Radi** 😃. [cite_start]I am a **Software Engineer** specializing in **Java Backend Development**. [cite_start]I leverage a rigorous engineering mindset from my background in **Geotechnical Engineering**  [cite_start]to solve complex technical challenges and deliver high-quality code.
 
-## 🏗️ Career Transition
-* [cite_start]**Software Engineering Fellow** at Luminous Technical University College (ASAC).
-* [cite_start]**Former Geotechnical Engineer** with experience in national-scale infrastructure projects (35M JOD).
-* [cite_start]Passionate about **Clean Code**, **SOLID Principles**, and **System Design**.
+## 🏗️ Career Highlights
+* [cite_start]**Java Backend Developer (Fellow)** at Luminous Technical University College (ASAC).
+* [cite_start]**Former Geotechnical Engineer** with experience in a **35M JOD** national infrastructure project.
+* [cite_start]Expert in designing scalable systems using **CQRS** and **SOLID principles**.
 
-## ⚡ Technologies
+## ⚡ Technologies & Skills
 Talk to me about:
-- [cite_start]**Backend Development**: Expert in **Java 17** and **Spring Boot** (Spring Security, Data JPA, MVC).
-- [cite_start]**Architecture & Design**: Implementing **CQRS Pattern**, **SOLID Principles**, and **Design Patterns**.
-- [cite_start]**Databases**: Relational database management using **PostgreSQL** and **Hibernate**.
-- [cite_start]**Core Fundamentals**: Solving complex problems using **Data Structures** and **Algorithms**.
-- [cite_start]**Tools**: Version control with **Git/GitHub**, API testing with **Postman**, and build management with **Maven**.
-- [cite_start]**Other Languages**: Familiar with **SQL**, **C++**, and **C#**.
+- [cite_start]**Programming Languages**: Java 17, SQL, C++, and C#.
+- [cite_start]**Backend Frameworks**: Spring Boot, Spring Security, Spring Data JPA, Hibernate, and Spring MVC.
+- [cite_start]**Software Engineering**: OOP, OOD, SOLID Principles, Design Patterns, and CQRS Pattern.
+- [cite_start]**Core Fundamentals**: Data Structures, Algorithms, and Problem-Solving.
+- [cite_start]**Databases & Tools**: PostgreSQL, Database Schema Design, Git, GitHub, Postman, and Maven.
 
 ## 🚀 Featured Project
-- [cite_start]**Doctor Appointment Management System**: A high-performance backend system built with Java 17 and Spring Boot, utilizing CQRS for scalability and Spring Security for role-based access control.
+- [cite_start]**Doctor Appointment Management System**: A high-performance backend system built with **Java 17** and **Spring Boot**. [cite_start]It features the **CQRS pattern** to decouple operations and **Spring Security** for secure access control.
 
 ## 🔔 Connect with me:
-- 💬 Ask me about **Java Architecture** or the journey of **Career Shifting** from Engineering to Tech.
-- 📫 How to reach me: [ahmadra78fa@gmail.com](mailto:ahmadra78fa@gmail.com).
-- ⚡ Fun fact: I used to ensure the stability of massive physical structures, now I ensure the stability of backend infrastructures! 🚀
+- [cite_start]💬 Ask me about anything related to **Java Architecture** or transitioning from **Civil Engineering** to **Software Engineering**.
+- [cite_start]📫 Reach me via email: [ahmadra78fa@gmail.com](mailto:ahmadra78fa@gmail.com)[cite: 1].
+- [cite_start]⚡ Fun fact: I moved from ensuring the stability of massive soil structures to ensuring the stability of robust backend architectures!
 
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmad-radi33&show_icons=true&theme=radical)
 
