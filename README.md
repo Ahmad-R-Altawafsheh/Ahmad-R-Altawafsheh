@@ -3,12 +3,14 @@
 # 👋 Hi, I'm Ahmad Radi
 ### Software Engineer | Java Backend Developer
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=001524&height=250&section=header&text=Ahmad%20Radi&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://viid.me/qW1pU7" width="100%" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-radi33)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadra78fa@gmail.com)
 
-![](https://github-profile-trophy.vercel.app/?username=Ahmad-R-Altawafsheh&theme=tokyonight&no-bg=true&margin-w=15)
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-R-Altawafsheh&theme=tokyonight&no-bg=true&margin-w=15" />
 
 </div>
 
