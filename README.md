@@ -9,7 +9,7 @@
 ---
 
 ### 🏛️ Engineering Discipline Meets Software Excellence
-[cite_start]I am a **Software Engineer** with a unique background in **Geotechnical Engineering**. [cite_start]I bring the rigorous analytical mindset used in multi-million JOD infrastructure projects to the world of scalable backend systems.
+[cite_start]I am a **Software Engineer** with a unique background in **Geotechnical Engineering**. [cite_start]I bring a rigorous analytical mindset from handling infrastructure projects worth **35M JOD** to building scalable backend systems.
 
 - [cite_start]🔭 **Focus:** Building robust, high-performance Java applications.
 - [cite_start]🏗️ **Architectural DNA:** Expert in **CQRS**, **SOLID**, and Clean Architecture.
@@ -27,41 +27,41 @@
   </tr>
   <tr>
     <td>
-      • Java 17 (Expert) <br>
-      • SQL <br>
-      • C++ <br>
-      • C#
+      [cite_start]• Java 17  <br>
+      • SQL  <br>
+      • C++  <br>
+      • C# 
     </td>
     <td>
-      • Spring Boot / Security <br>
-      • Data JPA / Hibernate <br>
-      • CQRS & Design Patterns <br>
-      • RESTful APIs
+      • Spring Boot / Security  <br>
+      • Data JPA / Hibernate  <br>
+      • CQRS & Design Patterns  <br>
+      • RESTful APIs 
     </td>
     <td>
-      • PostgreSQL <br>
-      • Git & GitHub <br>
-      • Maven <br>
-      • Postman
+      • PostgreSQL  <br>
+      • Git & GitHub  <br>
+      • Maven  <br>
+      • Postman 
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Project
-[cite_start]**[Doctor Appointment Management System](https://github.com/ahmad-radi33)** 
-> [cite_start]*A high-performance backend system built to manage medical consultations efficiently.* 
+### 🚀 Highlight Project
+[cite_start]**Doctor Appointment Management System** 
+> [cite_start]*A high-performance backend system designed to manage medical consultations efficiently.* 
 - [cite_start]**Implemented CQRS Pattern** to decouple read/write operations for maximum scalability.
-- [cite_start]**Secure by Design:** Integrated **Spring Security (JWT/OAuth2)** for role-based access control.
-- [cite_start]**Clean Architecture:** Applied **SOLID principles** to ensure a testable and maintainable codebase.
+- [cite_start]**Secure by Design:** Integrated **Spring Security** for role-based access control.
+- [cite_start]**Clean Architecture:** Applied **SOLID principles** for a maintainable codebase.
 
 ---
 
 ### 🌟 The Engineer's Edge (Soft Skills)
-* [cite_start]**Analytical Problem-Solving:** Sharpened by years of complex soil investigations.
-* [cite_start]**Extreme Attention to Detail:** Precision is non-negotiable, whether in soil or code.
-* [cite_start]**Disciplined Work Ethic:** Proven through managing critical field data and QA.
+* [cite_start]**Analytical Problem-Solving:** Sharpened by complex technical investigations.
+* [cite_start]**Attention to Detail:** Precision-driven approach from geotechnical QA.
+* [cite_start]**Disciplined Work Ethic:** Proven through managing critical engineering data.
 
 ---
 
@@ -77,10 +77,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-radi33&show_icons=true&theme=radical&rank_icon=github" alt="Ahmad's GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmad-radi33.ahmad-radi33" alt="Visitors" />
