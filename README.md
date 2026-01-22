@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Ahmad Radi
-### Software Engineer | Java Backend Developer
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Ahmad+Radi;Java+Backend+Developer;Software+Engineer;Building+Scalable+Systems;From+Geotechnical+to+Code)
 
 <br>
 
