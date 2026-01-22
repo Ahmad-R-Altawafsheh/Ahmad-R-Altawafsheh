@@ -1,37 +1,87 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=53D1B6&center=true&vCenter=true&width=500&lines=Hello+there,+I+am+Ahmad+Radi;Software+Engineer;Java+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=53D1B6&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Ahmad+Radi;Software+Engineer;Java+Backend+Developer" alt="Typing SVG" />
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250">
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ahmad--radi33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-radi33/)](https://www.linkedin.com/in/ahmad-radi33/) 
-[![Gmail Badge](https://img.shields.io/badge/-ahmadra78fa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadra78fa@gmail.com)](mailto:ahmadra78fa@gmail.com)
+---
 
-[cite_start]I am **Ahmad Radi** 😃. [cite_start]I am a **Software Engineer** specializing in **Java Backend Development**. [cite_start]I leverage a rigorous engineering mindset from my background in **Geotechnical Engineering**  [cite_start]to solve complex technical challenges and deliver high-quality code.
+### 🏛️ Engineering Discipline Meets Software Excellence
+[cite_start]I am a **Software Engineer** with a unique background in **Geotechnical Engineering**. [cite_start]I bring the rigorous analytical mindset used in multi-million JOD infrastructure projects to the world of scalable backend systems.
 
-## 🏗️ Career Highlights
-* [cite_start]**Java Backend Developer (Fellow)** at Luminous Technical University College (ASAC).
-* [cite_start]**Former Geotechnical Engineer** with experience in a **35M JOD** national infrastructure project.
-* [cite_start]Expert in designing scalable systems using **CQRS** and **SOLID principles**.
+- [cite_start]🔭 **Focus:** Building robust, high-performance Java applications.
+- [cite_start]🏗️ **Architectural DNA:** Expert in **CQRS**, **SOLID**, and Clean Architecture.
+- [cite_start]⚡ **Mission:** Delivering maintainable code that drives real business value.
 
-## ⚡ Technologies & Skills
-Talk to me about:
-- [cite_start]**Programming Languages**: Java 17, SQL, C++, and C#.
-- [cite_start]**Backend Frameworks**: Spring Boot, Spring Security, Spring Data JPA, Hibernate, and Spring MVC.
-- [cite_start]**Software Engineering**: OOP, OOD, SOLID Principles, Design Patterns, and CQRS Pattern.
-- [cite_start]**Core Fundamentals**: Data Structures, Algorithms, and Problem-Solving.
-- [cite_start]**Databases & Tools**: PostgreSQL, Database Schema Design, Git, GitHub, Postman, and Maven.
+---
 
-## 🚀 Featured Project
-- [cite_start]**Doctor Appointment Management System**: A high-performance backend system built with **Java 17** and **Spring Boot**. [cite_start]It features the **CQRS pattern** to decouple operations and **Spring Security** for secure access control.
+### 🛠️ Tech Stack & Specialized Skills
 
-## 🔔 Connect with me:
-- [cite_start]💬 Ask me about anything related to **Java Architecture** or transitioning from **Civil Engineering** to **Software Engineering**.
-- [cite_start]📫 Reach me via email: [ahmadra78fa@gmail.com](mailto:ahmadra78fa@gmail.com)[cite: 1].
-- [cite_start]⚡ Fun fact: I moved from ensuring the stability of massive soil structures to ensuring the stability of robust backend architectures!
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Languages</b></td>
+    <td align="center" width="250"><b>Backend & Frameworks</b></td>
+    <td align="center" width="250"><b>Databases & Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      • Java 17 (Expert) <br>
+      • SQL <br>
+      • C++ <br>
+      • C#
+    </td>
+    <td>
+      • Spring Boot / Security <br>
+      • Data JPA / Hibernate <br>
+      • CQRS & Design Patterns <br>
+      • RESTful APIs
+    </td>
+    <td>
+      • PostgreSQL <br>
+      • Git & GitHub <br>
+      • Maven <br>
+      • Postman
+    </td>
+  </tr>
+</table>
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmad-radi33&show_icons=true&theme=radical)
+---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmad-radi33.ahmad-radi33)
+### 🚀 Featured Project
+[cite_start]**[Doctor Appointment Management System](https://github.com/ahmad-radi33)** 
+> [cite_start]*A high-performance backend system built to manage medical consultations efficiently.* 
+- [cite_start]**Implemented CQRS Pattern** to decouple read/write operations for maximum scalability.
+- [cite_start]**Secure by Design:** Integrated **Spring Security (JWT/OAuth2)** for role-based access control.
+- [cite_start]**Clean Architecture:** Applied **SOLID principles** to ensure a testable and maintainable codebase.
+
+---
+
+### 🌟 The Engineer's Edge (Soft Skills)
+* [cite_start]**Analytical Problem-Solving:** Sharpened by years of complex soil investigations.
+* [cite_start]**Extreme Attention to Detail:** Precision is non-negotiable, whether in soil or code.
+* [cite_start]**Disciplined Work Ethic:** Proven through managing critical field data and QA.
+
+---
+
+### 📫 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmad-radi33">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ahmadra78fa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-radi33&show_icons=true&theme=radical&rank_icon=github" alt="Ahmad's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmad-radi33.ahmad-radi33" alt="Visitors" />
+</div>
