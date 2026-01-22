@@ -12,30 +12,43 @@
 ---
 
 ### 🏛️ Engineering Discipline Meets Software Excellence
-Coming from a rigorous background in **Geotechnical Engineering**, I bring a unique, analytical approach to software development. I specialize in building robust backend systems with a focus on **Clean Code**, **SOLID Principles**, and **Scalable Architectures**.
+[cite_start]Coming from a rigorous background in **Geotechnical Engineering**, I bring a unique, analytical approach to software development. [cite_start]I specialize in building robust backend systems with a focus on **Clean Code**, **SOLID Principles**, and **Scalable Architectures**.
 
-- 🔭 **Current Focus:** Advanced Java Backend Development & Microservices.
-- 🏗️ **Core Expertise:** Java 17, Spring Boot, PostgreSQL, and CQRS Pattern.
-- ⚙️ **The Engineer's Edge:** High-level problem solving, attention to detail, and a structured approach to complex system design.
+- [cite_start]🔭 **Current Focus:** Advanced Java Backend Development & System Design[cite: 1, 3].
+- [cite_start]🏗️ **Core Expertise:** Java 17, Spring Boot, PostgreSQL, and CQRS Pattern.
+- [cite_start]⚙️ **The Engineer's Edge:** High-level problem solving, attention to detail, and a structured approach to complex system development.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
+#### 💻 Programming Languages
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
 </div>
+
+- [cite_start]**Languages:** Java 17, SQL, C++, C#.
+- [cite_start]**Fundamentals:** Data Structures, Algorithms, Problem-Solving.
+
+#### ⚙️ Backend Frameworks & Software Engineering
+- [cite_start]**Spring Stack:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Spring MVC.
+- [cite_start]**Patterns & Principles:** OOP, OOD, SOLID Principles, Design Patterns, CQRS Pattern.
+
+#### 🔧 Tools & Databases
+- [cite_start]**Database:** PostgreSQL & Database Schema Design.
+- [cite_start]**Tools:** Git, GitHub, Postman, Maven.
 
 ---
 
-### 🚀 Highlights
-- 🌱 **Learning:** CI/CD Pipelines, Docker, and Cloud Deployment (AWS).
-- 👯 **Open to Collaborate:** On Java-based open-source projects or enterprise-level backend solutions.
-- 💬 **Ask me about:** Java Architecture, Geotechnical Engineering, and my journey as a Career Changer.
+### 🌟 Soft Skills
+- [cite_start]**Analytical Problem-Solving**.
+- [cite_start]**Attention to Detail**.
+- [cite_start]**Team Collaboration**.
+- [cite_start]**Adaptability & Continuous Learning**.
+- [cite_start]**Disciplined Work Ethic** (from large-scale 35M JOD projects).
 
 ---
 
@@ -53,7 +66,7 @@ Coming from a rigorous background in **Geotechnical Engineering**, I bring a uni
 
 <br/>
 
-> **Fun Fact:** As an engineer, I used to analyze the stability of massive structures. Now, I ensure the stability and scalability of backend infrastructures. Same logic, different field! 🚀
+> [cite_start]**Fun Fact:** As a Geotechnical Engineer, I analyzed the stability of massive physical structures. Now, I ensure the stability and reliability of backend infrastructures. Same engineering logic, different field! 🚀
 
 ---
 <div align="center">
