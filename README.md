@@ -70,7 +70,7 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-R-Altawafsheh&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-R-Altawafsheh&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-R-Altawafsheh&theme=dark&background=20232A&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE)
 
 </div>
 
