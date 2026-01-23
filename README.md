@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/ahmad-radi33)
 [![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:ahmadra78fa@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=22D3EE)](https://github.com/Ahmad-R-Altawafsheh/Ahmad-R-Altawafsheh/blob/main/Ahmad-Radi-Software-Engineer-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=adobeacrobatreader&logoColor=22D3EE)](https://github.com/Ahmad-R-Altawafsheh/Ahmad-R-Altawafsheh/blob/main/Ahmad-Radi-Software-Engineer-Resume.pdf)
 
 </div>
 
