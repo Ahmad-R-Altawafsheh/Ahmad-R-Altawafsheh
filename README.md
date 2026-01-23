@@ -37,15 +37,22 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ## 🛠️ Technical Toolbelt
 
-<div align="center">
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=22D3EE)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![C++](https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=22D3EE)
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white) |
-| **Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=Apache-Maven&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) |
+### 🚀 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=spring-boot&logoColor=22D3EE)
+![Spring Security](https://img.shields.io/badge/Spring_Security-20232A?style=for-the-badge&logo=spring-security&logoColor=22D3EE)
+![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=22D3EE)
 
-</div>
+### ⚙️ Tools & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![Maven](https://img.shields.io/badge/Apache_Maven-20232A?style=for-the-badge&logo=apache-maven&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=22D3EE)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellij-idea&logoColor=22D3EE)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=22D3EE)
 
 ---
 
