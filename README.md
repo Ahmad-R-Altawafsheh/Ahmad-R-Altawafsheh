@@ -24,7 +24,14 @@
 ---
 
 ## 🏗️ The Engineering Bridge: From Soil to Code
-I am a Software Engineer with a rigorous analytical mindset forged in **Geotechnical Engineering**. Having contributed to national infrastructure projects valued at **35M JOD**, I bring a disciplined approach to software development. I believe that a system's architecture is its foundation; I apply the same precision used in structural engineering to build robust, scalable, and high-performance Backend systems.
+I am a Software Engineer with a rigorous analytical mindset forged in **Geotechnical Engineering**. Having contributed to national infrastructure projects valued at **35M JOD**, I bring a disciplined approach to software development. I believe that a system's architecture is its foundation. **In Geotechnical Engineering, we mitigate risks before building; in Software, I apply the same logic through Unit Testing and Clean Architecture.**
+
+---
+
+## 🎯 Current Focus
+- 🚀 Deepening my knowledge in **Microservices Architecture**.
+- 🧠 Solving Daily Challenges in **Data Structures & Algorithms**.
+- 📖 Learning more about **System Design Principles**.
 
 ---
 
@@ -36,7 +43,7 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
 | **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white) |
-| **Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=Apache-Maven&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=Apache-Maven&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) |
 
 </div>
 
@@ -49,10 +56,14 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ---
 
-## 📊 Programming Activity
+## 📊 Programming Activity & Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-R-Altawafsheh&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-R-Altawafsheh&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-R-Altawafsheh&theme=dark)
 
 </div>
 
