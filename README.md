@@ -63,6 +63,10 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ---
 
+---
+
+---
+
 ## 📊 Programming Activity & Stats
 <div align="center">
 
