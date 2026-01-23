@@ -9,15 +9,15 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Location-Amman%2C%20Jordan-22D3EE?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-6DB33F?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Location-Amman%2C%20Jordan-20232A?style=flat-square&logo=googlemaps&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-20232A?style=flat-square&logo=github&logoColor=22D3EE" />
 
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-radi33)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadra78fa@gmail.com)
-[![View Resume](https://img.shields.io/badge/View_My_Resume-D14836?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Ahmad-R-Altawafsheh/Ahmad-R-Altawafsheh/blob/main/Ahmad-Radi-Software-Engineer-Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/ahmad-radi33)
+[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:ahmadra78fa@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=22D3EE)](https://github.com/Ahmad-R-Altawafsheh/Ahmad-R-Altawafsheh/blob/main/Ahmad-Radi-Software-Engineer-Resume.pdf)
 
 </div>
 
@@ -60,10 +60,6 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 * **SOLID Principles**: Clean and maintainable code architecture.
 * **CQRS Pattern**: Precision in data flow management.
 * **Structural Integrity**: Software built with engineering-grade stability.
-
----
-
----
 
 ---
 
