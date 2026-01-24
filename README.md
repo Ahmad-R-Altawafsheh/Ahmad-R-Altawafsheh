@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Ahmad Radi
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Ahmad+Radi;Java+Backend+Developer;Software+Engineer;Building+Scalable+Systems;From+Geotechnical+to+Code)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Ahmad+Radi;Java+%26+C%23+Backend+Developer;Software+Engineer;Building+Scalable+Systems;From+Geotechnical+to+Code)
 
-#### 🏗️ Software Engineer | Java Backend Developer.
+#### 🏗️ Software Engineer | Java & .NET Backend Developer.
 #### Building reliable foundations, one line of code at a time. 💻
 
 <br>
@@ -29,9 +29,10 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 ---
 
 ## 🎯 Current Focus
-- 🚀 Deepening my knowledge in **Microservices Architecture**.
-- 🧠 Solving Daily Challenges in **Data Structures & Algorithms**.
-- 📖 Learning more about **System Design Principles**.
+- 🚀 Advancing through **Course 18** on **Programming Advice** platform under the mentorship of **Dr. Mohammed Abu-Hadhoud**.
+- 🌐 Expanding into **Web Development** using **.NET Core** and mastering **Design Principles & Patterns** with **Eng. Essam Abdelnabi**.
+- 🧠 Solving **Daily Challenges** in **Data Structures & Algorithms**.
+- 🗣️ Enhancing English language proficiency through the **ZAmericanEnglish** program with **Mr. Ibrahim Adel**.
 
 ---
 
@@ -39,26 +40,28 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=22D3EE)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=22D3EE)
 ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
 ![C++](https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=22D3EE)
 
 ### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=spring-boot&logoColor=22D3EE)
-![Spring Security](https://img.shields.io/badge/Spring_Security-20232A?style=for-the-badge&logo=spring-security&logoColor=22D3EE)
+![.NET Core](https://img.shields.io/badge/.NET_Core-20232A?style=for-the-badge&logo=dotnet&logoColor=22D3EE)
 ![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=22D3EE)
 
 ### ⚙️ Tools & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
-![Maven](https://img.shields.io/badge/Apache_Maven-20232A?style=for-the-badge&logo=apache-maven&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=22D3EE)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visual-studio&logoColor=22D3EE)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellij-idea&logoColor=22D3EE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=22D3EE)
 ![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=22D3EE)
+![Maven](https://img.shields.io/badge/Apache_Maven-20232A?style=for-the-badge&logo=apache-maven&logoColor=22D3EE)
 
 ---
 
 ## 📐 Architectural Pillars
 * **SOLID Principles**: Clean and maintainable code architecture.
-* **CQRS Pattern**: Precision in data flow management.
+* **Design Patterns**: Applying industry-standard solutions to complex problems.
 * **Structural Integrity**: Software built with engineering-grade stability.
 
 ---
