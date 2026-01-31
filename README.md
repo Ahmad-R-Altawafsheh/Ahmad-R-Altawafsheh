@@ -49,31 +49,20 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 ![.NET Core](https://img.shields.io/badge/.NET_Core-20232A?style=for-the-badge&logo=dotnet&logoColor=22D3EE)
 ![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=22D3EE)
 
-### ⚙️ Tools & Databases
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visual-studio&logoColor=22D3EE)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=for-the-badge&logo=intellij-idea&logoColor=22D3EE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=22D3EE)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=22D3EE)
-![Maven](https://img.shields.io/badge/Apache_Maven-20232A?style=for-the-badge&logo=apache-maven&logoColor=22D3EE)
-
----
-
-## 📐 Architectural Pillars
-* **SOLID Principles**: Clean and maintainable code architecture.
-* **Design Patterns**: Applying industry-standard solutions to complex problems.
-* **Structural Integrity**: Software built with engineering-grade stability.
-
 ---
 
 ## 📊 Programming Activity & Stats
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-R-Altawafsheh&layout=compact&theme=dark&count_private=true&langs_count=8)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmad-R-Altawafsheh&show_icons=true&theme=dark&count_private=true" alt="Ahmad's GitHub Stats" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-R-Altawafsheh&show_icons=true&theme=dark&count_private=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-R-Altawafsheh&theme=dark&background=20232A&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmad-R-Altawafsheh&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Ahmad's Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ahmad-R-Altawafsheh&theme=dark&background=20232A&ring=22D3EE&fire=22D3EE" alt="Ahmad's GitHub Streak" />
 
 </div>
 
