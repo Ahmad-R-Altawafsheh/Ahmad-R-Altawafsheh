@@ -46,6 +46,19 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 ---
 
+## 🚀 Featured Projects
+<div align="center">
+
+### 🎮 [XO Game (C#)](https://github.com/Ahmad-R-Altawafsheh/XO-Game-CSharp)
+**A professional logic implementation of the classic XO game developed using C# and Windows Forms.**
+<br>
+![C#](https://img.shields.io/badge/Language-C%23-22D3EE?style=flat-square) 
+![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square)
+
+</div>
+
+---
+
 ## 📊 Programming Activity & Stats
 <div align="center">
 
