@@ -44,11 +44,6 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
 ![C++](https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=22D3EE)
 
-### 🚀 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=spring-boot&logoColor=22D3EE)
-![.NET Core](https://img.shields.io/badge/.NET_Core-20232A?style=for-the-badge&logo=dotnet&logoColor=22D3EE)
-![Hibernate](https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=22D3EE)
-
 ---
 
 ## 📊 Programming Activity & Stats
@@ -62,7 +57,7 @@ I am a Software Engineer with a rigorous analytical mindset forged in **Geotechn
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ahmad-R-Altawafsheh&theme=dark&background=20232A&ring=22D3EE&fire=22D3EE" alt="Ahmad's GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-R-Altawafsheh&theme=dracula&bg_color=20232A&color=22D3EE&line=22D3EE&point=22D3EE&area=true&hide_border=true" alt="Ahmad's Activity Graph" />
 
 </div>
 
